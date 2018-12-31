@@ -1,4 +1,4 @@
-# Coursera_Data_Science_Capstone_Final_Project
+# Coursera Data Science Capstone (Final Project)
 
 ## Overview
 The goal of this exercise is to create a product to highlight the prediction algorithm that you have built and to provide an interface that can be accessed by others. For this project you must submit:
